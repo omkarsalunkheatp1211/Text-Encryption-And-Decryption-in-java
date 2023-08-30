@@ -27,8 +27,14 @@ This Java program allows you to perform text encryption and decryption using the
     git clone https://github.com/omkarsalunkheatp1211/Text-Encryption-And-Decryption-in-java.git
     ```
 4. Open a terminal or command prompt and navigate to the directory containing the file.
-5. Compile the program using the command: `javac TextEncAndDec.java`
-6. Run the compiled program with: `java TextEncAndDec`
+5. Compile the program using the command:
+   ```javascript
+   javac TextEncAndDec.java`
+   ```
+8. Run the compiled program with:
+  ```javascript
+  java TextEncAndDec
+  ```
 
 ## Use
 
