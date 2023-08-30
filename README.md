@@ -33,7 +33,7 @@ This Java program allows you to perform text encryption and decryption using the
    ```
 8. Run the compiled program with:
   ```javascript
-    java TextEncAndDec
+java TextEncAndDec
   ```
 
 ## Use
