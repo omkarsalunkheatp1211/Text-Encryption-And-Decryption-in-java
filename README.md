@@ -28,10 +28,12 @@ This Java program allows you to perform text encryption and decryption using the
     ```
 4. Open a terminal or command prompt and navigate to the directory containing the file.
 5. Compile the program using the command:
+
    ```javascript
    javac TextEncAndDec.java
    ```
 8. Run the compiled program with:
+   
   ```javascript
    java TextEncAndDec
    ```
